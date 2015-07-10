@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4612"} },
+"features": [
+{ "type": "Feature", "properties": { "Code": "KOI", "地点名称": "恋瀬川", "調査名称": "定期河川調査", "座標L(経度)": "140:13:27.728", "座標B(緯度)": "36:11:40.857" }, "geometry": { "type": "Point", "coordinates": [ 140.224368808, 36.194682626 ] } }
+,
+{ "type": "Feature", "properties": { "Code": "SAK", "地点名称": "桜川", "調査名称": "定期河川調査", "座標L(経度)": "140:07:27.942", "座標B(緯度)": "36:08:07.904" }, "geometry": { "type": "Point", "coordinates": [ 140.124428362, 36.135528873 ] } }
+,
+{ "type": "Feature", "properties": { "Code": "ONO", "地点名称": "小野川", "調査名称": "定期河川調査", "座標L(経度)": "140:15:01.876", "座標B(緯度)": "35:56:37.015" }, "geometry": { "type": "Point", "coordinates": [ 140.250521207, 35.943615153 ] } }
+,
+{ "type": "Feature", "properties": { "Code": "花室川", "地点名称": "花室川", "調査名称": "定期河川調査", "座標L(経度)": "140:11:20.475", "座標B(緯度)": "36:03:18.191" }, "geometry": { "type": "Point", "coordinates": [ 140.189020895, 36.055052993 ] } }
+]
+}
