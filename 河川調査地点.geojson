@@ -1,6 +1,5 @@
 {
 "type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4612"} },
 "features": [
 { "type": "Feature", "properties": { "Code": "KOI", "地点名称": "恋瀬川", "調査名称": "定期河川調査", "座標L(経度)": "140:13:27.728", "座標B(緯度)": "36:11:40.857" }, "geometry": { "type": "Point", "coordinates": [ 140.224368808, 36.194682626 ] } }
 ,
